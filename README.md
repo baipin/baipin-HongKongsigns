@@ -16,6 +16,8 @@
 - [Contents](#contents)
 - [Introduction](#introduction)
 - [Download](#download)
+- [Changelog](#changelog)
+- [Notes](#Notes)
 
 
 ## Introduction
@@ -36,3 +38,14 @@ This is a repository for Cities:skylines 2 mod: Hong Kong Signs [Write Everywher
 You can download from [Paradox Mods Platform](https://mods.paradoxplaza.com/mods/125896/Windows).
 
 I will give a release bag when the formal version of my mod come out. Anyway, it's no need for you to clone  or download the repository to install the mod.
+
+## Changelog
+
+* V0.0.1.1
+  >1)Upload layouts and free Chinese fonts.
+  > 2)Fix the problem that some pictures are too big for WE mod.
+* V0.0.1.0
+  > First upload, Mod ID got.
+
+## Notes
+The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
