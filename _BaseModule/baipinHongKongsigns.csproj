@@ -2,11 +2,7 @@
 
 	<PropertyGroup>
 		<OutputType>Library</OutputType>
-<<<<<<< HEAD:_BaseModule/baipinHongKongsigns.csproj
-		<TargetFramework>net472</TargetFramework>
-=======
 		<TargetFramework>net48</TargetFramework>
->>>>>>> 2898b6272ce42f3aac84d69bbc34d0809dcede0a:_BaseModule/_BaseModule.csproj
     <LangVersion>12</LangVersion>
 		<Configurations>Debug;Release</Configurations>
 		
