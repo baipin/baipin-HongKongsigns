@@ -12,7 +12,7 @@
   <ModVersion Value="1.0.0.0" />
   <GameVersion Value="1.*" />
   <ChangeLog>#  v1.0.0r0
-\&lt;ADD CHANGES HERE\&gt;</ChangeLog>
+\&lt;First Upload.\&gt;</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/CS2-HongKongsigns" />
