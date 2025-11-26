@@ -15,6 +15,6 @@
 \&lt;First Upload.\&gt;</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
-  <ExternalLink Type="github" Url="https://github.com/baipin/CS2-HongKongsigns" />
+  <ExternalLink Type="github" Url="https://github.com/baipin/baipin-HongKongsigns" />
   <ExternalLink Type="buymeacoffee" Url="https://ko-fi.com/baipin" />
 </Publish>
