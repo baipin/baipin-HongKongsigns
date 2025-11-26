@@ -2,19 +2,30 @@
   <ModId Value="" />
   <DisplayName Value="Hong Kong Signs Pack[Write Everywhere]" />
   <ShortDescription Value="Hong Kong signs pack with Write Everywhere" />
-  <LongDescription># Hong Kong Signs pack for Write Everywhre modules mods.
+  <LongDescription># Model project for Write Everywhre modules mods
+
+This is a project to be used as starter point to any new module pack of Write Everywhere mod for Cities Skylines 2.
 
 ## Setting up
 
-</LongDescription>
+- Rename this project and solution to setup the DLL name this module will have.
+	- TIP: To avoid conflicts, start the project name with a acronym representing your name, example: `XYZ_MyWEModule` being XYZ the acronym that represents you.
+- Add resources at each `Resources/` subfolder as instructed locally there
+- Change csproj file details (DisplayName, ShortDescription, ForumLink, other social media links tags)
+- Setup thumbnail into `Properties/Thumbnail.png`
+- Add screenshots at `Screenshots/` folder (jpg files, optional)
+- Publish the mod using "Publish..." option in context menu of the project
+- After having a modId in Paradox Mods, setup it into the ModId parameter at csproj file
+
+After that, just don't forget to change the Version parameter in the csproj file if you need to upload new versions of the module!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
   <ModVersion Value="1.0.0.0" />
   <GameVersion Value="1.*" />
   <ChangeLog>#  v1.0.0r0
-\&lt;First Upload.\&gt;</ChangeLog>
+\&lt;ADD CHANGES HERE\&gt;</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
-  <ExternalLink Type="github" Url="https://github.com/baipin/baipin-HongKongsigns" />
+  <ExternalLink Type="github" Url="https://github.com/baipin/CS2-HongKongsigns" />
   <ExternalLink Type="buymeacoffee" Url="https://ko-fi.com/baipin" />
 </Publish>
