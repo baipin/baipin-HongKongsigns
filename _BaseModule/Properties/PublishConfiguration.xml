@@ -22,7 +22,7 @@
 8️⃣Select a layout and customize it to your liking.  
 
 ## Customize and Save Signs
-1️⃣Select the root object → Save & Export as XML.  
+1️⃣Select the root object → Save and Export as XML.  
 2️⃣Templates can be reused across cities and saves.  
 3️⃣All templates are stored locally so no re-import required.  
 
@@ -36,7 +36,7 @@ The Chinese font included in this mod is "匯文港黑". The font is free to use
   <ChangeLog>#  v1.0.0r0
 \&lt;1)Upload layouts and free Chinese fonts.  
   >2)Fix the problem that some pictures are too big for WE mod.
-\&lt;
+\&gt;
     # V0.0.1.0
   \&lt; First upload, Mod ID got.\&gt;</ChangeLog>
   <Tag Value="Code Mod" />
