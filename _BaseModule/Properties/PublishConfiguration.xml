@@ -27,5 +27,5 @@ After that, just don't forget to change the Version parameter in the csproj file
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/CS2-HongKongsigns" />
-  <ExternalLink Type="buymeacoffee" Url="https://ko-fi.com/baipin" />
+  <ExternalLink Type="buymeacoffee" Url="https://buymeacoffee.com/baipin" />
 </Publish>
