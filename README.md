@@ -30,4 +30,4 @@ This mod is in beta version, and it will be updated frequently these days. Anywa
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
 * Covering various kinds of traffic signs in Hong Kong, and it can also be used as UK signs pack.
 * **Non-illustration Traffic Bollard (NRTB, 安全島反光板)** is included, and it's very realistic!
-* **Very convenient to use.** The template is already there, and you just need to change the textures.
+* **Very convenient to use.** The template is already there, and you just need to change the texts.
