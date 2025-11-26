@@ -20,7 +20,7 @@ This is a project to be used as starter point to any new module pack of Write Ev
 After that, just don't forget to change the Version parameter in the csproj file if you need to upload new versions of the module!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.0.0.0" />
+  <ModVersion Value="0.0.1.0" />
   <GameVersion Value="1.*" />
   <ChangeLog>#  v1.0.0r0
 \&lt;ADD CHANGES HERE\&gt;</ChangeLog>
