@@ -40,7 +40,7 @@ This is a repository for Cities:skylines 2 mod: Hong Kong Signs [Write Everywher
 ## Download
 You can download from [Paradox Mods Platform](https://mods.paradoxplaza.com/mods/125896/Windows).
 
-If you cannot conntect to Paradox mod, you can also download from the [Release](https://github.com/baipin/HongKongsigns/releases) Page, but I cannot guarantee it is the latest. Generally, I will upload to the release page when it's a phase-one official version。
+If you cannot conntect to Paradox mod, you can also download from the [Release](https://github.com/baipin/HongKongsigns/releases) Page, but I cannot guarantee it is the latest. Generally, I will upload to the release page when it's a phased stable version。
 
 ## Important: After adding to playset...
 You need to import Chinese font included in the mod by yourself. But it is very easy, just do like this:  
