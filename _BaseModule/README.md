@@ -9,19 +9,26 @@ The mod is in beta version, and it will be updated frequently these days. Anyway
 * **Very convenient to use.** The template is already there, and you just need to change the texts.
 
 ## How to Use
-1️⃣Install all required mods listed below.
-2️⃣Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.
-3️⃣Open the Write Everywhere menu (CTRL + Shift + W).
-4️⃣Click the structure you want to edit.
-5️⃣Click Import layout from XML at root...
-6️⃣Choose the puzzle-piece icon (Templates from mods).
-7️⃣Search for the "baipinHongKongsigns" Mod.
-8️⃣Select a layout and customize it to your liking.
+1️⃣Install all required mods listed below.  
+2️⃣Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.  
+| Signs type | Assets attached to the sign | Layout Used |
+| --- | --- | --- |
+| Micro Round Signs | European No Entry | /MicroSigns/HK_Micro_Round.welayout |
+| Micro Reduce Speed Now | European Bridge Warning Sign | /MicroSigns/HK_Reduce speed now.welayout |
+| Micro Triangle Signs | European Bridge Warning Sign | /MicroSigns/HK_Micro_Triangle.welayout |
+| Next-to-road Direction Signs | European No Entry | /Direction Signs (Next to Road)/* |
+| Overhead Direction Sign Blue_Long | High-rise cleaning platform | /Direction Signs (Overhead)/HK_Overdirection_Long.welayout |
+3️⃣Open the Write Everywhere menu (CTRL + Shift + W).  
+4️⃣Click the structure you want to edit.  
+5️⃣Click Import layout from XML at root...  
+6️⃣Choose the puzzle-piece icon (Templates from mods).  
+7️⃣Search for the "baipinHongKongsigns" Mod.  
+8️⃣Select a layout and customize it to your liking.  
 
 ## Customize and Save Signs
-1️⃣Select the root object → Save and Export as XML.
-2️⃣Templates can be reused across cities and saves.
-3️⃣All templates are stored locally so no re-import required.
+1️⃣Select the root object → Save and Export as XML.  
+2️⃣Templates can be reused across cities and saves.  
+3️⃣All templates are stored locally so no re-import required.  
 
 ## Notes
 The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
