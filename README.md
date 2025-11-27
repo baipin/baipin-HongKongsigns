@@ -42,11 +42,7 @@ I will give a release bag when the formal version of my mod come out. Anyway, it
 
 ## Changelog
 
-* V0.0.1.1
-  >1)Upload layouts and free Chinese fonts.
-  > 2)Fix the problem that some pictures are too big for WE mod.
-* V0.0.1.0
-  > First upload, Mod ID got.
+See [changelog](https://github.com/baipin/HongKongsigns/blob/master/_BaseModule/changelog.md) page.
 
 ## How to Use
 1️⃣Install all required mods listed below.  
