@@ -1,16 +1,27 @@
-# Model project for Write Everywhre modules mods
+﻿
+# ⚠️Important Notice
+The mod is in beta version, and it will be updated frequently these days. Anyway, you can download and take an early look.
 
-This is a project to be used as starter point to any new module pack of Write Everywhere mod for Cities Skylines 2.
+### Outdtanding Features
+* Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
+* Covering various kinds of traffic signs in Hong Kong, and it can also be used as UK signs pack.
+* **Non-illustration Traffic Bollard (NRTB, 安全島反光板)** is included, and it's very realistic!
+* **Very convenient to use.** The template is already there, and you just need to change the texts.
 
-## Setting up
+## How to Use
+1️⃣Install all required mods listed below.
+2️⃣Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.
+3️⃣Open the Write Everywhere menu (CTRL + Shift + W).
+4️⃣Click the structure you want to edit.
+5️⃣Click Import layout from XML at root...
+6️⃣Choose the puzzle-piece icon (Templates from mods).
+7️⃣Search for the "baipinHongKongsigns" Mod.
+8️⃣Select a layout and customize it to your liking.
 
-- Rename this project and solution to setup the DLL name this module will have.
-	- TIP: To avoid conflicts, start the project name with a acronym representing your name, example: `XYZ_MyWEModule` being XYZ the acronym that represents you.
-- Add resources at each `Resources/` subfolder as instructed locally there
-- Change csproj file details (DisplayName, ShortDescription, ForumLink, other social media links tags)
-- Setup thumbnail into `Properties/Thumbnail.png`
-- Add screenshots at `Screenshots/` folder (jpg files, optional)
-- Publish the mod using "Publish..." option in context menu of the project
-- After having a modId in Paradox Mods, setup it into the ModId parameter at csproj file
+## Customize and Save Signs
+1️⃣Select the root object → Save and Export as XML.
+2️⃣Templates can be reused across cities and saves.
+3️⃣All templates are stored locally so no re-import required.
 
-After that, just don't forget to change the Version parameter in the csproj file if you need to upload new versions of the module!
+## Notes
+The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
