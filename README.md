@@ -3,7 +3,7 @@
 > a Mod based on Write Everywhere of Cities:skylines2.
 
 <p align="center">
-<img alt="Version" src="https://img.shields.io/badge/version-0.0.1.4-3f51b5.svg?style=flat-square"/>
+<img alt="Version" src="https://img.shields.io/badge/version-0.0.1.5-3f51b5.svg?style=flat-square"/>
 <a href="https://baipin.pw"><img alt="baipin" src="https://img.shields.io/badge/author-baipin-orange.svg?style=flat-square"/></a>
 <a href="https://mods.paradoxplaza.com/mods/125896/Windows"><img alt="Download" src="https://img.shields.io/badge/download-13.06M-brightgreen.svg?style=flat-square"/></a>
 <a href="https://github.com/baipin/baipin-HongKongsigns/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-MPL%20V2.0-orange.svg?style=flat-square"/></a>
@@ -30,6 +30,7 @@ This is a repository for Cities:skylines 2 mod: Hong Kong Signs [Write Everywher
 ># ⚠️Important Notice
 >This mod is in beta version, and it will be updated frequently these days. Anyway, you can download and take an early look.
 
+![Screenshots_3](https://github.com/user-attachments/assets/fdec1cd4-734d-4c04-89f8-7f94debb4bc2)
 
 ### Outdtanding Features
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
