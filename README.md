@@ -18,6 +18,7 @@
 - [Download](#download)
 - [Changelog](#changelog)
 - [How to Use](#howtouse)
+- [List](#List)
 - [Notes](#Notes)
 
 
@@ -58,6 +59,15 @@ See [changelog](https://github.com/baipin/HongKongsigns/blob/master/_BaseModule/
 1️⃣Select the root object → Save & Export as XML.  
 2️⃣Templates can be reused across cities and saves.  
 3️⃣All templates are stored locally so no re-import required.  
+
+## List
+| Signs type | Assets attached to the sign | Layout Used |
+| --- | --- | --- |
+| Micro Round Signs | European No Entry | /MicroSigns/HK_Micro_Round.welayout |
+| Micro Reduce Speed Now | European Bridge Warning Sign | /MicroSigns/HK_Reduce speed now.welayout |
+| Micro Triangle Signs | European Bridge Warning Sign | /MicroSigns/HK_Micro_Triangle.welayout |
+| Next-to-road Direction Signs | European No Entry | /Direction Signs (Next to Road)/* |
+| Overhead Direction Sign Blue_Long | High-rise cleaning platform | /Direction Signs (Overhead)/HK_Overdirection_Long.welayout |
 
 ## Notes
 The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
