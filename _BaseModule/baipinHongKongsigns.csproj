@@ -18,7 +18,7 @@
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
     <ModId>125896</ModId>
-    <Version>0.0.1.7</Version>
+    <Version>1.0.0.0</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
     <DisplayName>Hong Kong Signs Pack[Write Everywhere]</DisplayName>

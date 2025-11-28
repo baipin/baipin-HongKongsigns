@@ -1,9 +1,13 @@
-**v0.0.1.7**
+**v1.0.0.0**
+After 7 versions of test, it is the first formal version£¡
 ### Added
-- More ertical Road Info Signs which next to the road.
-- Destination Direction Signs(White background).
-- Blue Exit Forecast Overhead Signs.
-- Temporary signs, including Road Closed, Police Check etc.
+- Blue Exit Distance Countdown.
+- All versions of Exit Distance Countdown for right-hand traffic.
+- Dynamic Message Signs(DMS).
+- Custom speed limit sign.
+- Small Marks: MTR, Pedestrian, Wheelchair, Bike, Arrow_NoAhrad
+- Warning Signs:Steep Hill for bike, Merge from L/R, Merge Into L/R
+- Micro signs: Tunnel Area Start and End, Disabled only, Keep in Lane, Cyclists Keep Right/Left
+- Tempory signs: Temporary Direction Signs
 
-### Optimized
-- Compress the pictures to tiny the mod and enhance the operation speed.
+

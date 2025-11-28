@@ -2,14 +2,14 @@
   <ModId Value="125896" />
   <DisplayName Value="Hong Kong Signs Pack[Write Everywhere]" />
   <ShortDescription Value="Hong Kong signs pack with Write Everywhere" />
-  <LongDescription># ⚠️Important Notice
-The mod is in beta version, and it will be updated frequently these days. Anyway, you can download and take an early look.
+  <LongDescription># 🎉After 7 versions of testing, the first formal version is now available!
 
 ### Outdtanding Features
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
 * Covering various kinds of traffic signs in Hong Kong, and it can also be used as UK signs pack.
 * **Non-illustration Traffic Bollard (NRTB, 安全島反光板)** is included, and it's very realistic!
 * **Very convenient to use.** The template is already there, and you just need to change the texts.
+* **Special signs for Right-hand traffic.** I specially made new signs for RHT! So if your city is in RHT, you can also use the signs realistically!
 
 ## Important: After adding to playset...
 You need to import Chinese font included in the mod by yourself. But it is very easy, just do like this:  
@@ -21,7 +21,7 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 * You are done!
 
 ## How to Use
-1️⃣Install all required mods listed below.  
+1️⃣Install "Write Everywhere" first.(See link below)  
 2️⃣Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.  
    See [List for Layouts](https://github.com/baipin/HongKongsigns#List) for details.  
 3️⃣Open the Write Everywhere menu (CTRL + Shift + W).  
@@ -37,26 +37,28 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 3️⃣All templates are stored locally so no re-import required.  
 
 ## Notes
-The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.</LongDescription>
+* The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
+* (Optional) English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="0.0.1.7" />
+  <ModVersion Value="1.0.0.0" />
   <GameVersion Value="1.*" />
-  <ChangeLog>**v0.0.1.7**
+  <ChangeLog>**v1.0.0.0**
+After 7 versions of test, it is the first formal version��
 ### Added
-- More ertical Road Info Signs which next to the road.
-- Destination Direction Signs(White background).
-- Blue Exit Forecast Overhead Signs.
-- Temporary signs, including Road Closed, Police Check etc.
-
-### Optimized
-- Compress the pictures to tiny the mod and enhance the operation speed.</ChangeLog>
+- Blue Exit Distance Countdown.
+- All versions of Exit Distance Countdown for right-hand traffic.
+- Dynamic Message Signs(DMS).
+- Custom speed limit sign.
+- Small Marks: MTR, Pedestrian, Wheelchair, Bike, Arrow_NoAhrad
+- Warning Signs:Steep Hill for bike, Merge from L/R, Merge Into L/R
+- Micro signs: Tunnel Area Start and End, Disabled only, Keep in Lane, Cyclists Keep Right/Left
+- Tempory signs: Temporary Direction Signs</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
   <Screenshot Value="Screenshots\Screenshots_3.jpg" />
   <Screenshot Value="Screenshots\Screenshots_4.jpg" />
-  <Screenshot Value="Screenshots\Screenshots_5.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HongKongsigns" />
   <ExternalLink Type="buymeacoffee" Url="https://buymeacoffee.com/baipin" />

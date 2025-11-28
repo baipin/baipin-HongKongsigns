@@ -3,7 +3,7 @@
 > a Mod based on Write Everywhere of Cities:skylines2.
 
 <p align="center">
-<img alt="Version" src="https://img.shields.io/badge/version-0.0.1.7-3f51b5.svg?style=flat-square"/>
+<img alt="Version" src="https://img.shields.io/badge/version-1.0.0.0-3f51b5.svg?style=flat-square"/>
 <a href="https://baipin.pw"><img alt="baipin" src="https://img.shields.io/badge/author-baipin-orange.svg?style=flat-square"/></a>
 <a href="https://mods.paradoxplaza.com/mods/125896/Windows"><img alt="Download" src="https://img.shields.io/badge/download-13.06M-brightgreen.svg?style=flat-square"/></a>
 <a href="https://github.com/baipin/baipin-HongKongsigns/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-MPL%20V2.0-orange.svg?style=flat-square"/></a>
@@ -27,8 +27,6 @@
 
 This is a repository for Cities:skylines 2 mod: Hong Kong Signs [Write Everywhere]
 
-># ⚠️Important Notice
->This mod is in beta version, and it will be updated frequently these days. Anyway, you can download and take an early look.
 
 ![Screenshots_3](https://github.com/user-attachments/assets/fdec1cd4-734d-4c04-89f8-7f94debb4bc2)
 
@@ -37,6 +35,7 @@ This is a repository for Cities:skylines 2 mod: Hong Kong Signs [Write Everywher
 * Covering various kinds of traffic signs in Hong Kong, and it can also be used as UK signs pack.
 * **Non-illustration Traffic Bollard (NRTB, 安全島反光板)** is included, and it's very realistic!
 * **Very convenient to use.** The template is already there, and you just need to change the texts.
+* **Special signs for Right-hand traffic.** I specially made new signs for RHT! So if your city is in RHT, you can also use the signs realistically!
 
 ## Download
 You can download from [Paradox Mods Platform](https://mods.paradoxplaza.com/mods/125896/Windows).
@@ -83,4 +82,5 @@ See [changelog](https://github.com/baipin/HongKongsigns/blob/master/_BaseModule/
 | Overhead Direction Sign Blue_Long | High-rise cleaning platform | /Direction Signs (Overhead)/HK_Overdirection_Long.welayout |
 
 ## Notes
-The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
+* The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
+* （Optional）English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)
