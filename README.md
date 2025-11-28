@@ -5,7 +5,7 @@
 <p align="center">
 <img alt="Version" src="https://img.shields.io/badge/version-1.0.0.0-3f51b5.svg?style=flat-square"/>
 <a href="https://baipin.pw"><img alt="baipin" src="https://img.shields.io/badge/author-baipin-orange.svg?style=flat-square"/></a>
-<a href="https://mods.paradoxplaza.com/mods/125896/Windows"><img alt="Download" src="https://img.shields.io/badge/download-13.06M-brightgreen.svg?style=flat-square"/></a>
+<a href="https://mods.paradoxplaza.com/mods/125896/Windows"><img alt="Download" src="https://img.shields.io/badge/download-15.01M-brightgreen.svg?style=flat-square"/></a>
 <a href="https://github.com/baipin/baipin-HongKongsigns/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-MPL%20V2.0-orange.svg?style=flat-square"/></a>
 <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fyrccondor%2Fmdx?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyrccondor%2Fmdx.svg?type=shield"/></a>
 </p>
@@ -87,5 +87,5 @@ See [changelog](https://github.com/baipin/HongKongsigns/blob/master/_BaseModule/
 
 ## Thanks
   * The mod is based on the template provided in [Write Everywhere](https://github.com/klyte45/CS2-WriteEverywhere) mod.
-  * Thanks to the example of [German Signs](https://github.com/UnMaestro/Maestros-CS2-GermanSigns). It inspired ne a lot.
+  * Thanks to the example of [German Signs](https://github.com/UnMaestro/Maestros-CS2-GermanSigns). It inspired me a lot.
   * Thanks to ND81 and his mod [Hong Kong Decals Pack](https://mods.paradoxplaza.com/mods/113771/Windows). Some microsigns are from his mod.
