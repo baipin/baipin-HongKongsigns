@@ -40,18 +40,22 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="0.0.1.5" />
+  <ModVersion Value="0.0.1.6" />
   <GameVersion Value="1.*" />
-  <ChangeLog>**v0.0.1.5**
+  <ChangeLog>**v0.0.1.6**
 ### Added
-- More Overhead direction signs.
+- Overhead direction signs:Green+Blue 3 Lines.
 - More warning signs.
-- More layouts for overhead signs.  
-- More marks, including hospital and circle directions.</ChangeLog>
+- Vertical Road Info Signs which next to the road.
+
+### Fixed
+- The problem that the background of Overhead sign 1L+1L points to empty.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
   <Screenshot Value="Screenshots\Screenshots_3.jpg" />
+  <Screenshot Value="Screenshots\Screenshots_4.jpg" />
+  <Screenshot Value="Screenshots\Screenshots_5.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HongKongsigns" />
   <ExternalLink Type="buymeacoffee" Url="https://buymeacoffee.com/baipin" />

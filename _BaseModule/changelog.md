@@ -1,6 +1,8 @@
-**v0.0.1.5**
+**v0.0.1.6**
 ### Added
-- More Overhead direction signs.
+- Overhead direction signs:Green+Blue 3 Lines.
 - More warning signs.
-- More layouts for overhead signs.  
-- More marks, including hospital and circle directions.
+- Vertical Road Info Signs which next to the road.
+
+### Fixed
+- The problem that the background of Overhead sign 1L+1L points to empty.

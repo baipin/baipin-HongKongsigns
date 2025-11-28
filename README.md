@@ -3,7 +3,7 @@
 > a Mod based on Write Everywhere of Cities:skylines2.
 
 <p align="center">
-<img alt="Version" src="https://img.shields.io/badge/version-0.0.1.5-3f51b5.svg?style=flat-square"/>
+<img alt="Version" src="https://img.shields.io/badge/version-0.0.1.6-3f51b5.svg?style=flat-square"/>
 <a href="https://baipin.pw"><img alt="baipin" src="https://img.shields.io/badge/author-baipin-orange.svg?style=flat-square"/></a>
 <a href="https://mods.paradoxplaza.com/mods/125896/Windows"><img alt="Download" src="https://img.shields.io/badge/download-13.06M-brightgreen.svg?style=flat-square"/></a>
 <a href="https://github.com/baipin/baipin-HongKongsigns/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/license-MPL%20V2.0-orange.svg?style=flat-square"/></a>
