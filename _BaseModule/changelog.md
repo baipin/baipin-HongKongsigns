@@ -1,3 +1,3 @@
-**v1.0.2**  
-### Hot Fixed
-- Re-packed to be compatible with 1.5.2f1.
+**v1.0.3**  
+### Fixed
+- Resize the picture to be compatible with 1.5.2f1 and new Write Everywhere requirements.

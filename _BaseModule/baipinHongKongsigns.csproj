@@ -18,8 +18,8 @@
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
     <ModId>125896</ModId>
-    <Version>1.0.2</Version>
-    <GameVersion>1.*</GameVersion>
+    <Version>1.0.3</Version>
+    <GameVersion>1.5.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
     <DisplayName>Hong Kong Signs Pack[Write Everywhere]</DisplayName>
     <ShortDescription>Hong Kong signs pack with Write Everywhere</ShortDescription>
