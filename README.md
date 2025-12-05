@@ -77,7 +77,7 @@ See [changelog](https://github.com/baipin/HongKongsigns/blob/master/_BaseModule/
 | Micro Reduce Speed Now | European Bridge Warning Sign | /MicroSigns/HK_Reduce speed now.welayout |
 | Micro Square Signs | Parking lot Sign | /MicroSigns/HK_Micro_square.welayout |
 | Micro Speed XX Ahead | One-way Sign | /MicroSigns/Special Square/HK_ XX Speed Ahead.welayout |
-| Micro Triangle Signs | European Bridge Warning Sign | /MicroSigns/HK_Micro_Triangle.welayout |
+| Micro Triangle Signs | EU Bascule Bridge Sign | /MicroSigns/HK_Micro_Triangle.welayout |
 | Next-to-road Direction Signs | European No Entry | /Direction Signs (Next to Road)/* |
 | Overhead Direction Sign Blue_Long | High-rise cleaning platform | /Direction Signs (Overhead)/HK_Overdirection_Long.welayout |
 
