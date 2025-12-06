@@ -41,11 +41,20 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 * (Optional) English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.0.4" />
+  <ModVersion Value="1.0.5" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>**v1.0.4**  
+  <ChangeLog>**v1.0.5**  
+### Added
+- Atlases: Empty blue signs so that you have more possibility to customize your sizes.
+- Layouts: Subway, footbridge
+
 ### Fixed
-- Resize the pictures to be compatible with 1.5.2f1 and new Write Everywhere requirements.(Last version some re-sized pictures are fail to update, and this version fixed the problem.)</ChangeLog>
+- The problem that the size of some pictures are too large for new WE requirements.
+- Re-structed the dictionary (All Nosigns were moved to a new folder) to fix the problem that some atlases are disappear due to the new WE requirements to the combined total size in a single folder.
+- The problem that the backgrounds of all warning signs become white after WE updated.
+
+### Optimized
+- Compress the re-sized pictures.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
